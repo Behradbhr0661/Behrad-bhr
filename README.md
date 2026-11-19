@@ -1,4 +1,40 @@
-## Hi there 👋
+
+# Hi, I'm Behrad 👋
+
+### Computer Engineering Student | Aspiring Full-Stack Developer
+
+I'm a Computer Engineering student passionate about software development, learning new technologies, and building useful projects.
+
+---
+
+### 🚀 About Me
+
+- 🎓 Computer Engineering Student
+- 💻 Learning Full-Stack Development
+- 🐍 Interested in Python Programming
+- 🌱 Always learning and improving
+- 🛠️ Building real-world projects
+
+### 🧰 Skills & Technologies
+
+- Python
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
+
+### 📂 Featured Projects
+
+- **TaskManager** – A task management application.
+
+### 📫 Contact Me
+
+- GitHub: [@Behradbhr0661](https://github.com/Behradbhr0661)
+
+---
+
+*"Great things are built one line of code at a time."*
+
 
 <!--
 **Behradbhr0661/Behradbhr0661** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
