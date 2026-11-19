@@ -23,12 +23,15 @@ I'm a Computer Engineering student passionate about software development, learni
 - JavaScript
 - Git & GitHub
 
-### 📂 Featured Projects
+## 🚀 Featured Projects
 
-- **TaskManager** – A task management application with frontend and backend integration.
+### 01. TaskManager
+A task management application with frontend
+and backend integration.
 
-- **Course Selection System** – A university course selection application built with Python and FastAPI, featuring student, professor, and course management.
-
+### 02. Course Selection System
+A university course management system
+built with Python and FastAPI.
 ### 📫 Contact Me
 
 - GitHub: [@Behradbhr0661](https://github.com/Behradbhr0661)
