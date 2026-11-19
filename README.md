@@ -25,7 +25,9 @@ I'm a Computer Engineering student passionate about software development, learni
 
 ### 📂 Featured Projects
 
-- **TaskManager** – A task management application.
+- **TaskManager** – A task management application with frontend and backend integration.
+
+- **Course Selection System** – A university course selection application built with Python and FastAPI, featuring student, professor, and course management.
 
 ### 📫 Contact Me
 
